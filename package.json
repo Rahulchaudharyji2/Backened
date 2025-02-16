@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "Node Node.js",
-    "dev":"Nodemon Node.js"
+    "start": "node Node.js",
+    "dev": "nodemon Node.js"
   },
   "keywords": [],
   "author": "",
@@ -16,6 +16,6 @@
     "multer": "^1.4.5-lts.1",
     "multer-storage-cloudinary": "^4.0.0",
     "nodemon": "^3.1.4",
-    "express": "^4.19.2",
+    "express": "^4.19.2"
   }
 }
